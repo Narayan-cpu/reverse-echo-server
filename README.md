@@ -27,30 +27,6 @@ This project demonstrates the fundamentals of networking in Java, focusing on cr
 
 ---
 
-## How to Run the Project
-
-### 1. Compile the Code
-Use the Java compiler to compile the project files:
-```bash
-javac ReverseEchoThread.java
-```
-
-### 2. Run the Server
-Start the server by running the server class in a terminal:
-```bash
-java ReverseEchoThread
-```
-
-### 3. Connect a Client
-In a separate terminal, run the client class to connect to the server:
-```bash
-java Client
-```
-
-### 4. Test with Multiple Clients
-To simulate multiple clients, open additional terminals and run the client class multiple times. Each client will be connected to the server and can communicate independently.
-
----
 
 ## Usage Example
 1. **Start the Server**:
