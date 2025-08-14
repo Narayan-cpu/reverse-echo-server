@@ -7,7 +7,7 @@ This project demonstrates the fundamentals of networking in Java, focusing on cr
 
 ---
 
-## Project Overview
+## Project Overview :
 - **Server**: Listens for client connections using a `ServerSocket`. For each client that connects, a new thread is spawned to handle communication, allowing multiple clients to interact with the server simultaneously.
 - **Client**: Connects to the server using a `Socket` and communicates by sending messages. Each message is reversed by the server and sent back to the client.
 - **Bidirectional Communication**: The client can continuously send messages to the server, which processes and responds to each message until the client sends the termination command (`dne`).
@@ -64,4 +64,5 @@ By working on this project, you will:
 An enthusiast exploring Java Networking and Development.
 
 Feel free to use, modify, and learn from this project. Contributions are welcome!
+
 
