@@ -51,7 +51,7 @@ By working on this project, you will:
 
 ---
 
-## Notes and Recommendations
+## Notes and Recommendations :
 - Ensure that the server is started before running the clients.
 - The server listens on port `2000` by default. Modify the port if necessary.
 - Each client operates independently, so multiple clients can interact with the server simultaneously without interfering with each other.
@@ -64,3 +64,4 @@ By working on this project, you will:
 An enthusiast exploring Java Networking and Development.
 
 Feel free to use, modify, and learn from this project. Contributions are welcome!
+
