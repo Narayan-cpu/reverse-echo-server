@@ -42,7 +42,7 @@ This project demonstrates the fundamentals of networking in Java, focusing on cr
 
 ---
 
-## Practical Learning Outcomes
+## Practical Learning Outcomes :
 By working on this project, you will:
 - Gain hands-on experience with Java networking APIs (`ServerSocket`, `Socket`).
 - Understand how multithreading enables concurrent processing of multiple client requests.
@@ -64,5 +64,6 @@ By working on this project, you will:
 An enthusiast exploring Java Networking and Development.
 
 Feel free to use, modify, and learn from this project. Contributions are welcome!
+
 
 
