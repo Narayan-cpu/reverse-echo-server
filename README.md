@@ -14,7 +14,7 @@ This project demonstrates the fundamentals of networking in Java, focusing on cr
 
 ---
 
-## Key Features
+## Key Features :
 1. **Multithreading**: 
    - Each client connection is handled in a separate thread, ensuring simultaneous and independent communication with multiple clients.
 2. **Message Processing**:
@@ -64,6 +64,7 @@ By working on this project, you will:
 An enthusiast exploring Java Networking and Development.
 
 Feel free to use, modify, and learn from this project. Contributions are welcome!
+
 
 
 
