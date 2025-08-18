@@ -1,6 +1,5 @@
 ﻿# reverse-echo-server :
 
-
 ->Java Networking Project - Reverse Echo Server
 
 This project demonstrates the fundamentals of networking in Java, focusing on creating a **multithreaded server** that communicates with multiple clients. It is designed for educational purposes to help understand how `ServerSocket` and `Socket` classes work in Java.
@@ -64,6 +63,7 @@ By working on this project, you will:
 An enthusiast exploring Java Networking and Development.
 
 Feel free to use, modify, and learn from this project. Contributions are welcome!
+
 
 
 
